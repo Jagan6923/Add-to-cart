@@ -1,0 +1,1 @@
+"Add to Cart" is a web application that allows users to enter item names and add them to a cart. When the "Add to Cart" button is clicked, the item is saved and displayed in a container below. Clicking on an item in the container removes it from the cart. All data is stored in Firebase, ensuring persistence across sessions.
